@@ -1,0 +1,20 @@
+{
+  "name": "客户跟进管理系统",
+  "short_name": "客户CRM",
+  "description": "个人客户跟进管理：客户、跟进、待办与 Gist 同步",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6f8",
+  "theme_color": "#1F6FEB",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
